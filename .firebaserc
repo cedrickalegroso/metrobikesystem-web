@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "metrobike-ec82b"
+  },
+  "targets": {
+    "metrobike-ec82b": {
+      "hosting": {
+        "metrobikeweb": [
+          "beta-metrobike"
+        ]
+      }
+    }
+  }
+}
